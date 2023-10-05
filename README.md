@@ -8,9 +8,9 @@
 - 🌱 **Опыт:** У меня более 2 лет опыта в разработке Python-приложений.
 - 🚀 **Технологии:** Мой стек включает в себя:
 
-  - ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) — для разработки мощных веб-приложений.
-  - ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray) — для создания API на основе Django.
-  - ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) — для легких и быстрых веб-приложений.
+  - ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) — для разработки мощных веб-приложений.
+  - ![DjangoREST](https://img.shields.io/badge/Django-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=142D21) — для создания API на основе Django.
+  - ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) — для легких и быстрых веб-приложений.
   - ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) — для создания высокопроизводительных API.
 
 ## Мои проекты
